@@ -16,7 +16,7 @@ hoặc
 python server.py
 ```
 
-![Server](image.png)
+![Server](imagemd/image.png)
 
 Sau đó ta mở một terminal mới và chạy UI:
 
@@ -24,27 +24,27 @@ Sau đó ta mở một terminal mới và chạy UI:
 py UI.py
 ```
 
-![UI 1](image-1.png)
+![UI 1](imagemd/image-1.png)
 
 Và một terminal mới nữa cho UI của người thứ hai:
 
-![UI 2](image-2.png)
+![UI 2](imagemd/image-2.png)
 
 Lúc này trên màn hình sẽ có 2 UI, một cho người thứ nhất và một cho người thứ hai.
 
-![UI](image-3.png)
+![UI](imagemd/image-3.png)
 
 Sau khi nhập tên, ta nhấn vào nút "Connect" để kết nối với server.
 
-![Start](image-4.png)
+![Start](imagemd/image-4.png)
 
 Nếu kết nối thành công, ta sẽ thấy thông báo "Connected to server" trên UI.
 
-![Connected](image-5.png)
+![Connected](imagemd/image-5.png)
 
 Lúc này ta sẽ nhập tin nhắn là có thể sử dụng.
 
-![Message](image-6.png)
+![Message](imagemd/image-6.png)
 
 ## Mục tiêu
 
